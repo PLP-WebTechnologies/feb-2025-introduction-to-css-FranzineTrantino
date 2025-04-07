@@ -15,10 +15,10 @@
   <div class="content-box">
     <h2>About</h2>
     <p>As a dedicated IT student at PLP (Power Learn Project Africa), I am eager to apply my technical skills 
-      andhands-on project experience in a dynamic, collaborative environment. In addition to my studies, I 
+      and hands-on project experience in a dynamic, collaborative environment. In addition to my studies, I 
       am actively expanding my expertise through online courses in database management, software 
       engineering, Python, web development, and business startup fundamentals. Beyond technology, I 
-      havea strong passion for content creation and video editing, particularly for social media platforms. 
+      have a strong passion for content creation and video editing, particularly for social media platforms. 
       Managing and growing digital communities excites me, and I enjoy crafting engaging visual stories 
       that resonate with audiences. Committed to continuous learning and professional growth, I strive to 
       merge my technical expertise with creative digital strategies to make a meaningful impact.
